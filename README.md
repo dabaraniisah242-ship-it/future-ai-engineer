@@ -3,6 +3,9 @@
 Hello, my name is Dabarani.
 
 I am learning:
+- Sql
+- Machine leaning
+- Power BI
 - Python
 - Data Science
 - Artificial Intelligence
